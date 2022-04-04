@@ -1,1 +1,3 @@
-# article-service
+# Bewerberaufgabe Artikel Service
+
+TODO
