@@ -13,7 +13,7 @@ Im Repo diesem Repo ist eine "Basis Spring Boot App", die erweitert werden muss.
 ### Nicht-funktionale Anforderung:
 * Die Anwendung enthält Tests
 * Es existiert ein einfaches Fehler Handling
-  * z.B. wie wird mit nicht existierenden Artikel umgegangen? 
+  * z.B. wie wird mit nicht existierenden Artikeln umgegangen? 
 * Die Anwendung wird mit Maven gebaut
 * Die Anwendung sollte einen Health-Check enthalten
 * für die Anwendung wird ein Docker Image erstellt (optional)
