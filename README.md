@@ -18,6 +18,6 @@ Im Repo diesem Repo ist eine "Basis Spring Boot App", die erweitert werden muss.
 * Die Anwendung sollte einen Health-Check enthalten
 * für die Anwendung wird ein Docker Image erstellt (optional)
 
-Ansonsten bist Du in der Umsetzung der App frei!
+Ansonsten bist Du in der Umsetzung der App frei! Erstelle gerne weitere Klassen und füge Libraries hinzu, wenn du das für sinnvoll hälst.
 
 Viel Spaß
